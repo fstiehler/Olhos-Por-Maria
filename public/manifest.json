@@ -1,0 +1,20 @@
+{
+  "short_name": "Santa Anna",
+  "name": "Santa Anna - Confeitaria Artesanal",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#CB6A7D",
+  "background_color": "#ffffff",
+  "description": "Santa Anna é uma renomada Confeitaria Artesanal que atua em Itajaí e Região",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "scope": "./",
+  "lang": "pt-BR"
+}

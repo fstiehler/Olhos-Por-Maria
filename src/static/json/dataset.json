@@ -1,0 +1,285 @@
+{
+  "cakeTypes": [
+    {
+      "name": "Normal",
+      "sizes": [
+        {
+          "size": "13cm",
+          "description": "Petit",
+          "serving": "Serve 4 pessoas.",
+          "weight": "0.9kg",
+          "price": 123
+        },
+        {
+          "size": "15cm",
+          "description": "PP",
+          "serving": "Serve 8 pessoas.",
+          "weight": "1.2kg",
+          "price": 158
+        },
+        {
+          "size": "17cm",
+          "description": "P",
+          "serving": "Serve 15 pessoas.",
+          "weight": "2.2kg",
+          "price": 205
+        },
+        {
+          "size": "20cm",
+          "description": "M",
+          "serving": "Serve 20 pessoas.",
+          "weight": "3.2kg",
+          "price": 252
+        },
+        {
+          "size": "23cm",
+          "description": "G",
+          "serving": "Serve 30 pessoas.",
+          "weight": "4.1kg",
+          "price": 293
+        }
+      ],
+      "cakeFlavors": [
+        {
+          "flavor": "Baunilia",
+          "fillings": [
+            {
+              "flavor": "Abacaxi com Coco",
+              "description": "Recheio de coco e abacaxi com calda.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Quatro Leites Passion",
+              "description": "Recheio de quatro leites com geleia de morango.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Strogonoff de Nozes (+R$20)",
+              "description": "Recheio de strogonoff de nozes.",
+              "additionalPrice": 20
+            },
+            {
+              "flavor": "Crocante de Nozes (+R$20)",
+              "description": "Recheio de crocante de nozes.",
+              "additionalPrice": 20
+            },
+            {
+              "flavor": "Ninho com Frutas Variadas",
+              "description": "Recheio de ninho com frutas variadas.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Mousse de Doce de Leite",
+              "description": "Recheio de mousse de doce de leite.",
+              "additionalPrice": 0
+            }
+          ]
+        },
+        {
+          "flavor": "chocolate",
+          "fillings": [
+            {
+              "flavor": "Ninho com Nutella",
+              "description": "Recheio de ninho com Nutella.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Dois Sabores",
+              "description": "Recheio de dois sabores.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Chocolatudo",
+              "description": "Recheio de Chocolatudo.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Caramelo Salgado",
+              "description": "Recheio de caramelo salgado.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Chocolate Amargo",
+              "description": "Recheio de chocolate amargo.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Prestígio",
+              "description": "Recheio de prestígio.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Red Velvet",
+              "description": "Recheio de Red Velvet.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Mousse de Trufa de Chocolate",
+              "description": "Recheio de mousse de trufa de chocolate.",
+              "additionalPrice": 0
+            }
+          ]
+        }
+      ],
+      "decorations": [
+        {
+          "type": "simples",
+          "description": "Decoração com chantilly e frutas.",
+          "additionalPrice": 0
+        },
+        {
+          "type": "especial",
+          "description": "Decoração com chantilly, frutas e flores comestíveis.",
+          "additionalPrice": 0
+        },
+        {
+          "type": "tematico  (+R$25)",
+          "description": "Decoração com chantilly, frutas e Topper temático.",
+          "additionalPrice": 25
+        }
+      ],
+      "additional": []
+    },
+    {
+      "name": "Neked Cake",
+      "sizes": [
+        {
+          "size": "13cm",
+          "description": "Petit",
+          "serving": "Serve 4 pessoas.",
+          "weight": "0.9kg",
+          "price": 110
+        },
+        {
+          "size": "15cm",
+          "description": "PP",
+          "serving": "Serve 8 pessoas.",
+          "weight": "1.2kg",
+          "price": 136
+        },
+        {
+          "size": "17cm",
+          "description": "P",
+          "serving": "Serve 15 pessoas.",
+          "weight": "2.2kg",
+          "price": 189
+        }
+      ],
+      "cakeFlavors": [
+        {
+          "flavor": "Baunilha",
+          "fillings": [
+            {
+              "flavor": "Quatro Leites com Morango",
+              "description": "Recheio de quatro leites com morango.",
+              "additionalPrice": 0
+            }
+          ]
+        },
+        {
+          "flavor": "Chocolate",
+          "fillings": [
+            {
+              "flavor": "Chocolatudo",
+              "description": "Recheio de brigadeiro cremoso ao leite.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Dois Amores",
+              "description": "Recheio de brigadeiro branco e brigadeiro ao leite.",
+              "additionalPrice": 0
+            }
+          ]
+        }
+      ],
+      "decorations": [
+        {
+          "type": "frase",
+          "description": "Frase",
+          "additionalPrice": 0
+        },
+        {
+          "type": "desenho",
+          "description": "Desenho",
+          "additionalPrice": 0
+        }
+      ],
+      "additional": []
+    },
+    {
+      "name": "Bento Cake",
+      "sizes": [
+        {
+          "size": "10cm",
+          "description": "10 cm",
+          "serving": "Serve 2 pessoas.",
+          "weight": "350g",
+          "price": 55
+        }
+      ],
+      "cakeFlavors": [
+        {
+          "flavor": "Aveludada Vermelha",
+          "fillings": [
+            {
+              "flavor": "RedVelvet",
+              "description": "Recheio de redvelvet.",
+              "additionalPrice": 0
+            }
+          ]
+        },
+        {
+          "flavor": "Baunilha",
+          "fillings": [
+            {
+              "flavor": "Docinho de Leite",
+              "description": "Recheio de doce de leite.",
+              "additionalPrice": 0
+            }
+          ]
+        },
+        {
+          "flavor": "Chocolate",
+          "fillings": [
+            {
+              "flavor": "Chocolatudo",
+              "description": "Recheio de brigadeiro.",
+              "additionalPrice": 0
+            },
+            {
+              "flavor": "Choconinho",
+              "description": "Recheio de brigadeiro de leite ninho.",
+              "additionalPrice": 0
+            }
+          ]
+        }
+      ],
+      "decorations": [
+        {
+          "type": "frase",
+          "description": "Frase",
+          "additionalPrice": 0
+        },
+        {
+          "type": "desenho",
+          "description": "Desenho",
+          "additionalPrice": 0
+        }
+      ],
+      "additional": [
+        {
+          "type": "Geléia de Morango",
+          "additionalPrice": 5
+        },
+        {
+          "type": "Nutella",
+          "additionalPrice": 5
+        },
+        {
+          "type": "Nozes",
+          "additionalPrice": 5
+        }
+      ]
+    }
+  ]
+}
